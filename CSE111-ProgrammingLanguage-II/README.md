@@ -1,6 +1,6 @@
-# CSE111-Lab01
+# CSE111-ProgrammingLanguage-II
 
-    01) NumberLine
+    01) Test
     02) Rectangle
     03) TriangleLeftJust
     04) TriangleRightJust
@@ -8,20 +8,3 @@
     06) TriangleIsosceles
     07) Rhombus
     08) HollowRectangle
-    09)
-    10)
-    11)
-    12)
-    13)
-    14)
-    15)
-    16)
-    17)
-    18)
-    19)
-    20)
-    21)
-    22)
-    23)
-    24)
-    25)
