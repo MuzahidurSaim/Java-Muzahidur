@@ -2,7 +2,7 @@
 
     01) Test
     02) Q3
-    03) TriangleLeftJust
+    03) Test3
     04) TriangleRightJust
     05) TriangleRightJust2
     06) TriangleIsosceles
