@@ -1,7 +1,7 @@
 # CSE111-ProgrammingLanguage-II
 
     01) Test
-    02) Rectangle
+    02) Q3
     03) TriangleLeftJust
     04) TriangleRightJust
     05) TriangleRightJust2
