@@ -1,7 +1,5 @@
-public class Q3
-{
-    public static void main(String[] args)
-    {
+public class Q3 {
+    public static void main(String[] args) {
         String test = "";
         int i = 5, j = 0, k = 15;
         while (i < 10) {
@@ -11,9 +9,7 @@ public class Q3
                 if (j % 2 == 0) {
                     test = "<--";
                     test = test + i + 2 + "-->" + (j / 2);
-                }
-                else
-                {
+                } else {
                     test = "-->";
                     test = "-->" + (i / 2) + test + j;
                 }
