@@ -6,5 +6,5 @@
     04) Test4
     05) Test04
     06) FinalT3A
-    07) Rhombus
-    08) HollowRectangle
+    07) PuzzleTester
+    08) PuzzleTester2
