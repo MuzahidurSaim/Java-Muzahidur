@@ -5,6 +5,6 @@
     03) Test3
     04) Test4
     05) Test04
-    06) TriangleIsosceles
+    06) FinalT3A
     07) Rhombus
     08) HollowRectangle
