@@ -3,7 +3,7 @@
     01) Test
     02) Q3
     03) Test3
-    04) TriangleRightJust
+    04) Test4
     05) TriangleRightJust2
     06) TriangleIsosceles
     07) Rhombus
