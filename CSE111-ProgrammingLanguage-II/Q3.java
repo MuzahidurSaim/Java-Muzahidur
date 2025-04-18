@@ -1,6 +1,6 @@
 public class Q3
 {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         String test = "";
         int i = 5, j = 0, k = 15;
