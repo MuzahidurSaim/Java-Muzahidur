@@ -1,4 +1,5 @@
 // task 1
+// Trace the output of the following Java Code. Then run them in Dr. Java to see if the results match.
 /*
 public class Test {
     int sum;
