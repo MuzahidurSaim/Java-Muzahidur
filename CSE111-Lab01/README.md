@@ -3,11 +3,11 @@
     01) NumberLine
     02) Rectangle
     03) TriangleLeftJust
-    04)
-    05)
-    06)
-    07)
-    08)
+    04) TriangleRightJust
+    05) TriangleRightJust2
+    06) TriangleIsosceles
+    07) Rhombus
+    08) HollowRectangle
     09)
     10)
     11)
