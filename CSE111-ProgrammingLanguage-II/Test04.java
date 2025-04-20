@@ -2,7 +2,6 @@ public class Test04 {
     public int sum;
     public int y;
     public void methodA() {
-
         int x = 0;
         int z = 0;
         while (z < 5) {
