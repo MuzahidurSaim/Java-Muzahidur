@@ -1,8 +1,6 @@
 public class FinalT3A {
-
     public int sum;
     public int y;
-
     public void methodA() {
         int x = 0, y = 0, j = 0;
         while (j < 2) {
@@ -27,6 +25,5 @@ public class FinalT3A {
         FinalT3A fT3A = new FinalT3A();
         fT3A.methodA();
         fT3A.methodB(6,8);
-
     }
 }
