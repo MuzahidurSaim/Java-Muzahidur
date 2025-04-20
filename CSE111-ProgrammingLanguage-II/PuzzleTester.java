@@ -1,6 +1,5 @@
 class PuzzleTester {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         Puzzle p = new Puzzle();
         p.methodA();
         p.methodA();
@@ -8,7 +7,6 @@ class PuzzleTester {
         p.methodA();
         p.methodB(7);
     }
-
 }
 class Puzzle {
     static int x;
