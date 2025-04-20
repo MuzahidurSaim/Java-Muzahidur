@@ -1,6 +1,5 @@
 public class Test4 {
     public int sum;
-
     public int y;
     public void methodA() {
         int x = 0, y = 0;
