@@ -12,7 +12,7 @@ public class HollowTriangleRightJust {
         // compute the pattern
         for(int i = lines; i >= 1; --i) {
             for(int j = 1; j <= lines; ++j) {
-                if(j == i || j == 5 || i == 1)
+                if(j == i || j == lines || i == 1)
                     System.out.print(j);
                 else
                     System.out.print(" ");
