@@ -20,8 +20,8 @@
     18) StarTriangleRightJust
     19) StarTriangleIsosceles
     20) StarRhombus
-    21)
-    22)
-    23)
-    24)
-    25)
+    21) StarHollowRectangle
+    22) StarHollowTriangleLeft
+    23) StarHollowTriangleRight
+    24) StarHollowTriangleIsosceles
+    25) StarHollowRhombus
