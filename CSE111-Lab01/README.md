@@ -19,7 +19,7 @@
     17) StarTriangleLeftJust
     18) StarTriangleRightJust
     19) StarTriangleIsosceles
-    20)
+    20) StarRhombus
     21)
     22)
     23)
