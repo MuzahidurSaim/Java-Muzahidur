@@ -12,8 +12,8 @@
     10) HollowTriangleRightJust
     11) HollowTriangleIsosceles
     12) HollowRhombus
-    13)
-    14)
+    13) Palindrome
+    14) PalindromicTriangle
     15)
     16)
     17)
