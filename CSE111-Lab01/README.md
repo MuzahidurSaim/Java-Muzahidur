@@ -8,9 +8,9 @@
     06) TriangleIsosceles
     07) Rhombus
     08) HollowRectangle
-    09)
-    10)
-    11)
+    09) HollowTriangleLeftJust
+    10) HollowTriangleRightJust
+    11) 
     12)
     13)
     14)
