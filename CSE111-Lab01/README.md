@@ -14,11 +14,11 @@
     12) HollowRhombus
     13) Palindrome
     14) PalindromicTriangle
-    15)
-    16)
-    17)
-    18)
-    19)
+    15) StarLine
+    16) StarRectangle
+    17) StarTriangleLeftJust
+    18) StarTriangleRightJust
+    19) StarTriangleIsosceles
     20)
     21)
     22)
