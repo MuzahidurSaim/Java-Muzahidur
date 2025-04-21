@@ -11,7 +11,7 @@
     09) HollowTriangleLeftJust
     10) HollowTriangleRightJust
     11) HollowTriangleIsosceles
-    12)
+    12) HollowRhombus
     13)
     14)
     15)
