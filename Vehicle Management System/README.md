@@ -1,10 +1,13 @@
-# CSE111-ProgrammingLanguage-II
+# Vehicle Management System
 
-    01) Test
-    02) Q3
-    03) Test3
-    04) Test4
-    05) Test04
-    06) FinalT3A
-    07) PuzzleTester
-    08) PuzzleTester2
+Refuelable
+
+    void refuel (double amount);
+
+Vehicle implements Refuelable
+
+    private String brand, model, fuelType;
+    public constructor() {}
+    public setters() {}
+    public getters() {}
+    public abstract double calculateMileage();
